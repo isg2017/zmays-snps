@@ -10,3 +10,7 @@ NGS bioinformatics startup
 Samples expected from sequencing core 2013-01-10
 1
 >>>>>>> 13fdea53e518e751d2c11bb1120df5838c180f85
+
+## References
+
+We download the B72 reference genome on 2013-01-04 from internet
